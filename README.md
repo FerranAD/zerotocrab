@@ -3,7 +3,7 @@
 ## Summary
 This README.md provides a concise overview of the LaTeX document "GIT Talk - From zero to ~~hero~~ crab". It serves as a cheatsheet for Git commands and includes links to interesting GitHub repositories mentioned in the slides.
 
-## Cheatsheet for Commands
+## Basic commands
 - `git init`: Create a new Git repository in the current directory.
 - `git add <file>`: Add file(s) to the staging area for the next commit.
 - `git status`: Check the status of the repository, showing tracked/untracked files and changes.
@@ -15,7 +15,7 @@ This README.md provides a concise overview of the LaTeX document "GIT Talk - Fro
 - `git pull <remote> <branch>`: Fetch changes from a remote repository and integrate them into the current branch.
 - `git push -u <remote> <branch>`: Push the current branch to a remote repository and set up tracking.
 
-## Advanced Commands
+## Advanced commands
 - `git remote add <name> <url>`: Add a new remote repository to the list of remotes.
 - `git reset --hard <commit>`: Reset the current HEAD to the specified state, discarding all changes.
 - `git merge <branch>`: Combine changes from another branch into the current branch.
@@ -23,7 +23,8 @@ This README.md provides a concise overview of the LaTeX document "GIT Talk - Fro
 - `git stash`: Temporarily shelve changes to clean the working directory.
 - `git reflog`: View a log of all commits that were made in the repository.
 
-## Sites of Interest
+## Sites of interest
+- [Slides Demo](https://github.com/ferranad/crab-test): GitHub repository for the presentation demo.
 - [RefuAPP](https://github.com/RefuAPP/refuapp): GitHub repository for RefuAPP project.
 - [Spam-Number-Filter](https://github.com/Spam-Number-Filter/Spam-Filter-WebPage): GitHub repository for Spam Number Filter project.
 - [SNMP-Python](https://github.com/SNMP-Python/snmp-data-analyzer): GitHub repository for SNMP Data Analyzer project.
